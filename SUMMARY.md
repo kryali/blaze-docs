@@ -4,14 +4,16 @@
 
 ## Getting Started
 
-* [The Blaze Way](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [🚀 Create your first trade](getting-started/quickstart.md)
+* [⏳ Managing trades](getting-started/publish-your-docs.md)
+* [🤖 Automating strategies](getting-started/publish-your-docs-1.md)
+* [Connect a brokerage](getting-started/connect-a-brokerage.md)
 
-## Basics
+## Trading School
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [Market Philosophy](trading-school/images-and-media.md)
+* [Option Basics](trading-school/editor.md)
+* [Position sizing](trading-school/interactive-blocks.md)
+* [Reading Order Flow](trading-school/openapi.md)
+* [Trading Tips](trading-school/integrations.md)
+* [Advanced Strategies](trading-school/markdown.md)
