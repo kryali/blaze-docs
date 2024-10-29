@@ -31,6 +31,10 @@ The real problem was that everything we needed was scattered. Essential data liv
 
 BlazeTrade is an _opinionated_ trading platform. Our software is meant to guide you into what we believe are the best standards and practices of profitable trading.
 
+
+
+
+
 * Emotionless Trading is Required&#x20;
 * Price Action Rules All - fundamentals ar ea trap
 * Every trade has a well-defined risk and reward
@@ -54,9 +58,9 @@ BlazeTrade is an _opinionated_ trading platform. Our software is meant to guide 
 
 ### Jump right in
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><span data-gb-custom-inline data-tag="emoji" data-code="1f50c">🔌</span> <strong>Connect a brokerage</strong></td><td>Link your account to get data and make trades</td><td></td><td></td><td></td></tr><tr><td><span data-gb-custom-inline data-tag="emoji" data-code="1f3af">🎯</span> <strong>Create your first trade</strong></td><td>Build and execute a trade </td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><span data-gb-custom-inline data-tag="emoji" data-code="1f916">🤖</span>  <strong>Automate strategies</strong></td><td>Set up no-code trading bots</td><td></td><td></td><td><a href="getting-started/publish-your-docs.md">publish-your-docs.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><span data-gb-custom-inline data-tag="emoji" data-code="1f50c">🔌</span> <strong>Connect a brokerage</strong></td><td>Link your account to get data and make trades</td><td></td><td></td><td><a href="getting-started/connect-a-brokerage.md">connect-a-brokerage.md</a></td></tr><tr><td><span data-gb-custom-inline data-tag="emoji" data-code="1f3af">🎯</span> <strong>Create your first trade</strong></td><td>Build and execute a trade </td><td></td><td></td><td><a href="getting-started/quickstart.md">quickstart.md</a></td></tr><tr><td><span data-gb-custom-inline data-tag="emoji" data-code="1f916">🤖</span>  <strong>Automate strategies</strong></td><td>Set up no-code trading bots</td><td></td><td></td><td><a href="getting-started/publish-your-docs-1.md">publish-your-docs-1.md</a></td></tr></tbody></table>
 
 ### Learn with Trading School
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Options Basics</strong></td><td>Get started with simple and effective strategies</td><td></td></tr><tr><td><strong>Market Primer</strong></td><td>Ruthlessly practical approach to managing risk</td><td></td></tr><tr><td><strong>Risk Management</strong></td><td>Take profits or cut losses based on market activity</td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Options Basics</strong></td><td>Get started with simple and effective strategies</td><td></td><td><a href="trading-school/editor.md">editor.md</a></td></tr><tr><td><strong>Market Primer</strong></td><td>Ruthlessly practical approach to managing risk</td><td></td><td><a href="trading-school/images-and-media.md">images-and-media.md</a></td></tr><tr><td><strong>Risk Management</strong></td><td>Take profits or cut losses based on market activity</td><td></td><td><a href="trading-school/interactive-blocks.md">interactive-blocks.md</a></td></tr></tbody></table>
 
