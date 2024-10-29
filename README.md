@@ -15,23 +15,48 @@ layout:
 
 # Welcome
 
-BlazeTrade is a trading platform for retail traders who want to turn passion into profits — from trade generation, to portfolio tracking and automated position management.
+BlazeTrade is an all-in-one trading platform for retail traders who want to turn passion into profits — from trade generation, to portfolio tracking and automated position management.
 
 <figure><img src=".gitbook/assets/welcome_email_header.png" alt=""><figcaption><p>By Traders, For Traders</p></figcaption></figure>
 
+## Our Story
+
+In 2017, we left our jobs to pursue trading full-time, driven by a simple dream - could we live on the income generated from trading alone? Like many before us, we believed a passion for markets could translate into reliable profits.
+
+Unfortunately, reality hit hard. The tools and knowledge we needed to become successful simply did not exist. Like most traders, we learned the hard way - through costly mistakes, information overload, and thousands of hours of trial and error. The market is unforgiving to those finding their way alone.
+
+The real problem was that everything we needed was scattered. Essential data lived in legacy brokers, key features in outdated software, and crucial knowledge trapped in closed trading circles. We built BlazeTrade to bring it all together - one platform with everything you need to trade consistently and profitably. The same tools that turned our own trading around are now in your hands.
+
 ## The Blaze Way
 
-We built BlazeTrade to help retail traders cross the chasm from part-time to full-time traders. In 2017, we left our jobs to pursue trading full-time. At the time, we believed that we could combine a passion for markets into reliable profits. What a dream! We could finally live life on our own terms.&#x20;
+BlazeTrade is an _opinionated_ trading platform. Our software is meant to guide you into what we believe are the best standards and practices of profitable trading.
 
-However, what we found was that the tools and knowledge we needed to become successful did not exist. Instead, strategies, data, and tools were all split across an ocean of legacy brokers, poorly supported software, and tribal trading groups.&#x20;
+* Emotionless Trading is Required&#x20;
+* Price Action Rules All - fundamentals ar ea trap
+* Every trade has a well-defined risk and reward
+* No human touch on a trade? - Jim Simon's Renassaince trades - 1 or 2 days where he would not trade
 
-In the end, we built BlazeTrade because we had to - and now we're releasing the tools we built to you.
+## Life of a Trade
+
+1. Open - SIGNAL - Trading conditions are condusive for a trade, good risk / reward
+2. Close - TARGET -&#x20;
+
+* How much do you want to spend? what's your risk?
+* What's your outlook? Do you think the stock will go up / down / or sideways
+
+## Trading Tips
+
+* easy for a stock to go where it has been
+* it is harder for a stock to go where it hasn't
+* a stock that makes new highs is likely to make more highs
+
+
 
 ### Jump right in
 
 <table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><span data-gb-custom-inline data-tag="emoji" data-code="1f50c">🔌</span> <strong>Connect a brokerage</strong></td><td>Link your account to get data and make trades</td><td></td><td></td><td></td></tr><tr><td><span data-gb-custom-inline data-tag="emoji" data-code="1f3af">🎯</span> <strong>Create your first trade</strong></td><td>Build and execute a trade </td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><span data-gb-custom-inline data-tag="emoji" data-code="1f916">🤖</span>  <strong>Automate strategies</strong></td><td>Set up no-code trading bots</td><td></td><td></td><td><a href="getting-started/publish-your-docs.md">publish-your-docs.md</a></td></tr></tbody></table>
 
-### Learn from Trading School
+### Learn with Trading School
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Options Basics</strong></td><td>Get started with simple and effective strategies</td><td></td></tr><tr><td><strong>Understanding Markets</strong></td><td>Ruthlessly practical approach to managing risk</td><td></td></tr><tr><td><strong>Trading Calculator</strong></td><td>Benchmarks to make sure you are ready to go full-time</td><td></td></tr><tr><td><strong>Risk Management</strong></td><td>Take profits or cut losses based on market activity</td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Options Basics</strong></td><td>Get started with simple and effective strategies</td><td></td></tr><tr><td><strong>Market Primer</strong></td><td>Ruthlessly practical approach to managing risk</td><td></td></tr><tr><td><strong>Risk Management</strong></td><td>Take profits or cut losses based on market activity</td><td></td></tr></tbody></table>
 
