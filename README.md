@@ -29,16 +29,13 @@ The real problem was that everything we needed was scattered. Essential data liv
 
 ## The Blaze Way
 
-BlazeTrade is an _opinionated_ trading platform. Our software is meant to guide you into what we believe are the best standards and practices of profitable trading.
+BlazeTrade is an _opinionated_ trading platform. Our software is meant to guide you to what we believe are the best standards and practices of profitable trading. The only way to learn trading is by trading, just like the only way to learn driving is by driving. The Blaze path are simple rules to help keep you on the road to trading profits.
+
+1. **Every trade has a well-defined exit** - this means that every trade has a maximum hold duration, a stop loss, and a profit target
+2. **Price action rules all** - fundamentals be damned, at the end of the day the only thing that matters is the price and your positions
+3. **Manage risk ruthlessly** - emotionless trading is a pre-requisite for profits, leverage trading bots to help you stick to your own rules
 
 
-
-
-
-* Emotionless Trading is Required&#x20;
-* Price Action Rules All - fundamentals ar ea trap
-* Every trade has a well-defined risk and reward
-* No human touch on a trade? - Jim Simon's Renassaince trades - 1 or 2 days where he would not trade
 
 ## Life of a Trade
 
