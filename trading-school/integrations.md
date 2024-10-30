@@ -2,8 +2,15 @@
 icon: plug-circle-plus
 ---
 
-# Integrations
+# Trading Tips
 
+* easy for a stock to go where it has been
+* it is harder for a stock to go where it hasn't
+* a stock that makes new highs is likely to make more highs
+
+## Trading Tips
+
+\
 GitBook integrations allow you to connect your GitBook spaces to some of your favorite platforms and services. You can install integrations into your GitBook page from the _Integrations_ menu in the top left.
 
 <figure><img src="https://gitbookio.github.io/onboarding-template-images/integrations-hero.png" alt=""><figcaption></figcaption></figure>
