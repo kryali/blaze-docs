@@ -19,7 +19,7 @@ layout:
 Already linked your brokerage account? [Create your first trade here](quickstart.md).
 {% endhint %}
 
-BlazeTrade is designed to work securly with your existing brokerage accounts to help you bring them all under one roof. We are always adding new integrations and new connections and will prioritize the most requested integrations. If you don't have an existing broker, you can still learn to trade with our free paper trading account.
+BlazeTrade is designed to work securely with your existing brokerage accounts to help you bring them all under one roof. We are always adding new integrations and new connections and will prioritize the most requested integrations. If you don't have an existing broker, you can still learn to trade with our free paper trading account.
 
 #### Supported Brokerages
 
