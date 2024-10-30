@@ -29,7 +29,7 @@ The real problem was that everything we needed was scattered. Essential data liv
 
 ## The Blaze Way
 
-BlazeTrade is an  _opinionated_  trading platform. Our software is meant to guide you to what we believe are the best standards and practices of profitable trading. Just like the only way to learn driving is by driving, the only way to learn trading is by trading. The Blaze Way is a few simple rules to help keep you steady on the road to trading profits.
+BlazeTrade is an  _**opinionated**_  trading platform. Our software is meant to guide you to what we believe are the best standards and practices of profitable trading. Just like the only way to learn driving is by driving, the only way to learn trading is by trading. The Blaze Way is a few simple rules to help keep you steady on the road to trading profits.
 
 1. **Every trade has a well-defined exit** - this means that every trade has a maximum hold duration, a stop loss, and a profit target
 2. **Price action rules all** - At the end of the day, the only thing that matters is the price and your positions
