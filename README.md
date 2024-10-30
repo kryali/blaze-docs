@@ -29,13 +29,13 @@ The real problem was that everything we needed was scattered. Essential data liv
 
 ## The Blaze Way
 
-BlazeTrade is an  _**opinionated**_  trading platform. Our software is meant to guide you to what we believe are the best standards and practices of profitable trading. Just like the only way to learn driving is by driving, the only way to learn trading is by trading. The Blaze Way is a few simple rules to help keep you steady on the road to trading profits.
+BlazeTrade is an  _**opinionated**_  trading platform. Our software is meant to guide you to what we believe are the best standards and practices of profitable trading. Just like the only way to learn driving is by driving, the only way to learn trading is by trading. Here are few simple rules to help keep you steady on the road to trading profits:
 
-1. **Every trade has a well-defined exit** - this means that every trade has a maximum hold duration, a stop loss, and a profit target
-2. **Price action rules all** - At the end of the day, the only thing that matters is the price and your positions
-3. **Manage risk ruthlessly** - emotionless trading is a pre-requisite for profits, leverage trading bots to help you stick to your own rules
+* **Every trade has a well-defined exit** - this means that every trade has a maximum hold duration, a stop loss, and a profit target
+* **Price action rules all** - At the end of the day, the only thing that matters is the price and your positions
+* **Manage risk ruthlessly** - emotionless trading is a pre-requisite for profits, leverage trading bots to help you stick to your own rules
 
-### Jump right in
+## Jump right in
 
 <table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><span data-gb-custom-inline data-tag="emoji" data-code="1f50c">🔌</span> <strong>Connect a brokerage</strong></td><td>Link your account to get data and make trades</td><td></td><td></td><td><a href="getting-started/connect-a-brokerage.md">connect-a-brokerage.md</a></td></tr><tr><td><span data-gb-custom-inline data-tag="emoji" data-code="1f3af">🎯</span> <strong>Create your first trade</strong></td><td>Build and execute a trade </td><td></td><td></td><td><a href="getting-started/quickstart.md">quickstart.md</a></td></tr><tr><td><span data-gb-custom-inline data-tag="emoji" data-code="1f916">🤖</span>  <strong>Automate strategies</strong></td><td>Set up no-code trading bots</td><td></td><td></td><td><a href="getting-started/publish-your-docs-1.md">publish-your-docs-1.md</a></td></tr></tbody></table>
 

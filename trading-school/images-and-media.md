@@ -1,13 +1,24 @@
 ---
 icon: image-landscape
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
-# Images & media
+# Market Primer
 
-GitBook allows you to add images and media easily to your docs. Simply drag a file into the editor, or use the file manager in the upper right corner to upload multiple images at once.
+The market is a phenomenon that is often overcomplicated by endless analysis and theory. At BlazeTrade, we take a practical view: markets are tools for generating income. We care less about why prices move and more about how to capitalize on these movements.
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/images-hero.png" alt=""><figcaption><p>Add alt text and captions to your images</p></figcaption></figure>
+Think of markets like weather patterns. A skilled sailor doesn't need to fully grasp atmospheric physics to navigate safely, but they must master reading conditions, understanding patterns, and making decisive moves at the right moment. Trading demands similar practical expertise:
 
-{% hint style="info" %}
-You can also add images simply by copying and pasting them directly into the editor — and GitBook will automatically add it to your file manager.
-{% endhint %}
+1. Clear strategy
+2. Disciplined execution
+3. Risk management
