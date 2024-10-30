@@ -2,14 +2,9 @@
 icon: pen-to-square
 ---
 
-# Editor
+# Option Basics
 
-GitBook has a powerful block-based editor that allows you to seamlessly create, update, and enhance your content.
+Warren Buffet has sometimes refered to derivatives like options as _"_financial weapons of mass destruction_" ._ Any trader who has been curious about the market has no doubt come across options in some form or another. Either as a cautionary tale or as a vehicle for financial freedom.&#x20;
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/editor-hero.png" alt=""><figcaption></figcaption></figure>
+Options are a unique tool for expressing an opinion on markets. While most traders are familiar with stock, they often only ever profit when markets go up - this is the long side.
 
-### Writing content
-
-GitBook offers a range of block types for you to add to your content inline — from simple text and tables, to code blocks and more. These elements will make your pages more useful to readers, and offer extra information and context.
-
-Either start typing below, or press `/` to see a list of the blocks you can insert into your page.
