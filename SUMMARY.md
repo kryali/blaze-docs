@@ -12,7 +12,7 @@
 ## Trading School
 
 * [Market Primer](trading-school/images-and-media.md)
-* [Option Basics](trading-school/editor.md)
+* [Option Basics](trading-school/option-basics.md)
 * [Life of a Trade](trading-school/life-of-a-trade.md)
 * [Pair Trading](trading-school/pair-trading.md)
 * [Reading Order Flow](trading-school/openapi.md)
