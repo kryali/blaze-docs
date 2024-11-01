@@ -15,6 +15,7 @@
 * [Option Basics](trading-school/option-basics.md)
 * [Life of a Trade](trading-school/life-of-a-trade.md)
 * [Pair Trading](trading-school/pair-trading.md)
-* [Reading Order Flow](trading-school/openapi.md)
 * [Risk Management](trading-school/interactive-blocks.md)
+* [Volatility](trading-school/volatility.md)
+* [Reading Order Flow](trading-school/openapi.md)
 * [Trading Tips](trading-school/integrations.md)
